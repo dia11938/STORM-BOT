@@ -8,13 +8,12 @@
 [![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-1.6.7-yellowgreen.svg)](http://www.open.collab.net/downloads/subversion/)
 [![windows](https://img.shields.io/badge/windows-tested-brightgreen.svg)]()
 [![linux](https://img.shields.io/badge/linux-Not%20tested-lightgrey.svg)]()
+[![gitter](https://badges.gitter.im/STORM_BOT/Lobby.svg)](https://gitter.im/STORM_BOT/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![license](https://img.shields.io/npm/l/express.svg)](https://github.com/LinePY/STORM-BOT/blob/ver-5.2/LICENSE)
 
 ## REQUIREMENTS
-#### 1) python-2.7.x --> http://www.python.org/download/
-##### Not working on python 3
-
-#### 2) TortoiseSVN-1.6.7 or the latest --> http://www.open.collab.net/downloads/subversion/
+#### python-2.7.x --> http://www.python.org/download/
+#####  Not working on python 3
 
 ## NOTE: 
 ##### 1) STORM is base on Talisman ver 2.1 preXP1 revision 86 source code with some modifications It's response to reply was translated into English.
